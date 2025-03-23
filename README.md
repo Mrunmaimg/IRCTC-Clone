@@ -158,10 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [Heroicons](https://heroicons.com/) - Icons
 
-## 📞 Support
 
-For support, email support@irctc-clone.com or join our Slack channel.
 
 ---
 
-Made with ❤️ by Mrunmai
