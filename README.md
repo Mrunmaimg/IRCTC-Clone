@@ -38,12 +38,12 @@ A modern, responsive clone of the Indian Railway Catering and Tourism Corporatio
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/irctc-clone.git
+git clone https://github.com/Mrunmaimg/IRCTC-Clone.git
 ```
 
 2. Install dependencies
 ```bash
-cd irctc-clone
+cd IRCTC-Clone
 npm install
 ```
 
@@ -57,34 +57,34 @@ npm run dev
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/home.png.png)
 - Modern hero section with dynamic slideshow
 - Feature highlights
 - Quick access to booking and tracking
 
 ### Train List Page
-![Train List](screenshots/train-list.png)
+![Train List](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/train-list.png)
 - Categorized train listings
 - Visual train cards with images
 - Rating system
 - Search functionality
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/login.png)
 - Clean login interface
 - Form validation
 - Remember me option
 - Forgot password link
 
 ### Signup Page
-![Signup](screenshots/signup.png)
+![Signup](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/signup.png)
 - User-friendly registration form
 - Password strength indicator
 - Terms and conditions
 - Social signup options
 
 ### Contact Page
-![Contact](screenshots/contact.png)
+![Contact](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/contact.png)
 - Contact form
 - Office locations
 - Support information
@@ -93,7 +93,7 @@ npm run dev
 ## 🛠️ Project Structure
 
 ```
-irctc-clone/
+IRCTC-Clone/
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.tsx
@@ -115,6 +115,7 @@ irctc-clone/
 │   └── assets/
 ├── index.html
 ├── package.json
+├── vercel.json
 └── README.md
 ```
 
@@ -124,6 +125,18 @@ The project uses the following configuration files:
 - `vite.config.ts` - Vite configuration
 - `tailwind.config.js` - Tailwind CSS configuration
 - `tsconfig.json` - TypeScript configuration
+- `vercel.json` - Vercel deployment configuration
+
+## 🚀 Deployment
+
+This project is deployed on Vercel. To deploy your own instance:
+
+1. Fork this repository
+2. Create a new project on [Vercel](https://vercel.com)
+3. Import your forked repository
+4. Deploy!
+
+Live Demo: [IRCTC Clone](https://irctc-clone-mrunmaimg.vercel.app)
 
 ## 🤝 Contributing
 
@@ -151,4 +164,4 @@ For support, email support@irctc-clone.com or join our Slack channel.
 
 ---
 
-Made with ❤️ by [Your Name] 
+Made with ❤️ by Mrunmai
