@@ -52,7 +52,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📸 Screenshots
 
@@ -155,8 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [IRCTC](https://www.irctc.co.in/) - Original website inspiration
 - [React](https://reactjs.org/) - UI library
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
-- [Framer Motion](https://www.framer.com/motion/) - Animations
-- [Heroicons](https://heroicons.com/) - Icons
+
 
 
 
