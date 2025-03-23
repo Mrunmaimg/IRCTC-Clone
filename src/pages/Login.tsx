@@ -17,6 +17,13 @@ export default function Login() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
+    // Basic validation
+    if (!formData.email || !formData.password) {
+      setError('Please fill in all fields')
+      return
+    }
+    // Clear any previous errors
+    setError('')
     // Handle login logic here
     console.log('Login attempt:', formData)
     // For demo, just navigate to home

@@ -1,17 +1,8 @@
-import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import ImageSlideshow from '../components/ImageSlideshow'
 import {
-  TagIcon as TrainIcon,
-  MapPinIcon,
-  ClockIcon,
   UsersIcon as UserGroupIcon,
-  ShieldCheckIcon,
-  BanknotesIcon as CurrencyRupeeIcon,
-  MagnifyingGlassIcon,
-  CalendarIcon,
-  ArrowTrendingUpIcon,
   TicketIcon,
   MapIcon,
   DocumentTextIcon,
@@ -45,25 +36,6 @@ const features = [
 ]
 
 export default function Home() {
-  const [fromStation, setFromStation] = useState('')
-  const [toStation, setToStation] = useState('')
-  const [date, setDate] = useState('')
-
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: {
-      opacity: 1,
-      transition: {
-        staggerChildren: 0.1,
-      },
-    },
-  }
-
-  const itemVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 },
-  }
-
   return (
     <div className="min-h-screen bg-light-bg-primary dark:bg-dark-bg-primary">
       {/* Hero Section with Slideshow */}

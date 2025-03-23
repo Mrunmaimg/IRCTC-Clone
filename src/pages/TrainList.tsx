@@ -94,7 +94,6 @@ const trainCategories = [
 
 export default function TrainList() {
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
 
   return (
     <div className="min-h-screen bg-light-bg-primary dark:bg-dark-bg-primary">
