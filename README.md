@@ -63,28 +63,28 @@ npm run dev
 - Quick access to booking and tracking
 
 ### Train List Page
-![Train List](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/train-list.png)
+![Train List](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/train-list.png.png)
 - Categorized train listings
 - Visual train cards with images
 - Rating system
 - Search functionality
 
 ### Login Page
-![Login](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/login.png)
+![Login](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/login.png.png)
 - Clean login interface
 - Form validation
 - Remember me option
 - Forgot password link
 
 ### Signup Page
-![Signup](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/signup.png)
+![Signup](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/signup.png.png)
 - User-friendly registration form
 - Password strength indicator
 - Terms and conditions
 - Social signup options
 
 ### Contact Page
-![Contact](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/contact.png)
+![Contact](https://github.com/Mrunmaimg/IRCTC-Clone/blob/main/screenshots/contact.png.png)
 - Contact form
 - Office locations
 - Support information
