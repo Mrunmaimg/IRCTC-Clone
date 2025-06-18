@@ -136,7 +136,7 @@ This project is deployed on Vercel. To deploy your own instance:
 3. Import your forked repository
 4. Deploy!
 
-Live Demo: [IRCTC Clone](https://irctc-clone-mrunmaimg.vercel.app)
+Live Demo: [IRCTC Clone](https://irctc-clone-xr57.vercel.app/)
 
 ## 🤝 Contributing
 
